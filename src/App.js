@@ -1,11 +1,11 @@
 import './App.css';
 
-import HooksCounter3 from './Hooks/useStateHook/HooksCounter3';
+import HooksCounter4 from './Hooks/useStateHook/HooksCounter4';
 
 function App() {
   return (
     <div className="App">
-      <HooksCounter3 />
+      <HooksCounter4 />
     </div>
   );
 }
